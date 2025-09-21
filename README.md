@@ -1,1 +1,3 @@
 # small_hw5
+
+![alt text](<proof/Screenshot (442).png>) ![alt text](<proof/Screenshot (443).png>) ![alt text](<proof/Screenshot (445).png>) ![alt text](<proof/Screenshot (447).png>) ![alt text](<proof/Screenshot (446).png>) ![alt text](<proof/Screenshot (448).png>) ![alt text](<proof/Screenshot (449).png>) ![alt text](<proof/Screenshot (450).png>) ![alt text](<proof/Screenshot (451).png>) ![alt text](<proof/Screenshot (452).png>)
